@@ -1,5 +1,5 @@
 # Travel-Advisor
-Travel advisory website.\
+Travel advisory website.
 
 Created a travel advisory that provides a traveller with all the details they might need to plan their travel , using React Js and various google API keys.\
 The website shows all the necessary real time data of all the restaurants , hotels and attractions around the world.\
