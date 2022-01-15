@@ -1,8 +1,9 @@
 # Travel-Advisor
 Travel advisory website.\
+
 Created a travel advisory that provides a traveller with all the details they might need to plan their travel , using React Js and various google API keys.\
 The website shows all the necessary real time data of all the restaurants , hotels and attractions around the world.\
-In addition to that the website also includes the  weather condition of various places thereby making the website efficient in itself.\
+In addition to that the website also includes the  weather condition of various places thereby making the website efficient in itself.
 
 # ⚙️ Technology Used
 1. React.js
